@@ -4,10 +4,10 @@
 //
 // Usage example:
 //
-//   import "google.golang.org/api/photoslibrary/v1"
+//   import "github.com/kurrik/googlemirror/api/photoslibrary/v1"
 //   ...
 //   photoslibraryService, err := photoslibrary.New(oauthHttpClient)
-package photoslibrary // import "google.golang.org/api/photoslibrary/v1"
+package photoslibrary // import "github.com/kurrik/googlemirror/api/photoslibrary/v1"
 
 import (
 	"bytes"
